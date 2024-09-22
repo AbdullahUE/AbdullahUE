@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahUE
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Flutter
+- 🌱 Flutter Developer
 - Email: abdullahansari9512@gmail.com
 - Phone: 03264993458
 
