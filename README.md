@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AbdullahUE
-- 👀 I’m interested in Tech
-- 🌱 Flutter Developer
-- Email: abdullahansari9512@gmail.com
+- Hi, I’m Abdullah Ansari
+- I’m interested in Tech
+- Full Stack Engineer
+- Email: abdullahansari.official.pk.com
 - Phone: 03264993458
-
-<!---
-AbdullahUE/AbdullahUE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
