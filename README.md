@@ -1,5 +1,5 @@
 - Hi, I’m Abdullah Ansari
 - I’m interested in Tech
-- Full Stack Engineer
+- Flutter Developer
 - Email: abdullahansari.official.pk.com
 - Phone: 03264993458
